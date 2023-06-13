@@ -19,7 +19,7 @@ class GradientContainer extends StatelessWidget {
           Color.fromARGB(255, 13, 2, 38)
         ], begin: startAlignment, end: endAlignment),
       ),
-      child: const Center(child: StyleText()),
+      child: const Center(child: StyleText('Nitish gupta')),
     );
   }
 }
